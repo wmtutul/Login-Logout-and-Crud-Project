@@ -1,10 +1,12 @@
 
-Backend run command: cd backend, npm start
+#Backend run command: <br>
+cd backend, npm start
 
-Frontend run command: cd frontend , npm run dev
+#Frontend run command:  <br>
+cd frontend , npm run dev  <br>
 
 
-Login: tutul
+Login: tutul <br>
 Pass: 123456
 
 
